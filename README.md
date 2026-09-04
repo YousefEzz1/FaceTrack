@@ -1,4 +1,4 @@
-# VisionFace
+# FaceTrack
 
 **VisionFace** is a simple and efficient **face detection project** that identifies and highlights human faces in images or videos using computer vision.  
 It demonstrates the core concepts behind modern facial recognition — from image capture to face localization.
@@ -45,5 +45,3 @@ It demonstrates the core concepts behind modern facial recognition — from imag
 - **face detection2**  
   ![face detection](figures/face%20deyection%202.png)
 
-- **face detection3**  
-  ![face detection](figures/face%20detection.jpeg)
